@@ -21,6 +21,7 @@ public class Empleado {
         this.empresa = empresa;
     }
 
+
     /**
      * Método privado registrar el cual nos mostrar el mensaje "Registrando empleado" en el caso de ser accesible
      * Solamente será accesible desde esta clase ya que es privado
